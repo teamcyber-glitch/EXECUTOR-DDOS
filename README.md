@@ -4,7 +4,8 @@
 <img src="https://i.ibb.co/bvy0qMT/IMG-20230807-WA0243.jpg" alt="IMG-20230807-WA0243" border="0">
 
 </div>
-# Usage
+<div align="center">
+  <h2>INSTALATION</h2>
 <details open>
   <summary><strong> STEP 1 </strong></summary>
 
@@ -26,6 +27,7 @@
   python3 lock.py
   ```
   </details>
+ </div>
 
 <div align="center">
   <h2>⚠ Disclaimer</h2><br>
