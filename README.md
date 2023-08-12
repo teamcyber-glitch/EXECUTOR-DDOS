@@ -5,7 +5,7 @@
 
 </div>
 <h2 align="center">INSTALATION</h2>
-<div align="center">
+<div">
 
 <details open>
   <summary><strong> STEP 1 </strong></summary>
