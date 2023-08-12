@@ -4,8 +4,9 @@
 <img src="https://i.ibb.co/bvy0qMT/IMG-20230807-WA0243.jpg" alt="IMG-20230807-WA0243" border="0">
 
 </div>
+<h2 align="center">INSTALATION</h2>
 <div align="center">
-  <h2>INSTALATION</h2>
+
 <details open>
   <summary><strong> STEP 1 </strong></summary>
 
