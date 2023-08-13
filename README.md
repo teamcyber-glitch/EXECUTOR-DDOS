@@ -5,7 +5,7 @@
 
 </div>
 <h2 align="center">INSTALATION</h2>
-<div">
+<div>
 
 <details open>
   <summary><strong> STEP 1 </strong></summary>
@@ -28,6 +28,16 @@
   python3 lock.py
   ```
   </details>
+
+ <details open>
+   <summary><strong> STEP FOR UPDATE </strong></summary>
+ 
+   ```bash
+   cd EXECUTOR-DDOS
+   git pull
+   python3 update.py
+   ```
+ 
  </div>
 
 <div align="center">
