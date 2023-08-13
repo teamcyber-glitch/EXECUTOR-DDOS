@@ -31,6 +31,7 @@
 
  <details open>
    <summary><strong> STEP FOR UPDATE </strong></summary>
+ I will always update this Premium Private for Attack DDOS
  
    ```bash
    cd EXECUTOR-DDOS
