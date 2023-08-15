@@ -36,7 +36,7 @@
    ```bash
    cd EXECUTOR-DDOS
    git pull
-   python3 upgrade.py
+   python3 update.py
    python3 lock.py
    ```
  
